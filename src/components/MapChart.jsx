@@ -18,7 +18,10 @@ const MapChart = () => {
   return ready ? (
     <ReactECharts option={option} style={{ height: "600px", width: "100%" }} />
   ) : (
-    <div>Loading map...</div>
+    <>
+      <div>Loading map...</div>
+      <h3>here is also a commit hash</h3>
+    </>
   );
 };
 
