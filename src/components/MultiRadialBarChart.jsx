@@ -37,6 +37,7 @@ const MultiRadialBarChart = () => {
           ))}
         </ul>
         <h1>This is a MultiRadialBarChart Component</h1>
+        <h2>This h2 is still added for testing purpose</h2>
       </div>
     </div>
   );
