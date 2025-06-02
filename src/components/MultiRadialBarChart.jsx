@@ -36,8 +36,6 @@ const MultiRadialBarChart = () => {
             </li>
           ))}
         </ul>
-          // this is a commit comment maybe
-        <h1>This is a MultiRadialBarChart</h1>
       </div>
     </div>
   );
